@@ -7,6 +7,11 @@ import java.sql.*;
  * SCSL-2021-1001
  * https://github.com/h2database/h2database/issues/3195
  *
+ * CVE-2021-23463
+ * https://security.snyk.io/vuln/SNYK-JAVA-COMH2DATABASE-1769238
+ * https://www.cve.org/CVERecord?id=CVE-2021-23463
+ * https://nvd.nist.gov/vuln/detail/CVE-2021-23463
+ *
  * schema.sql & data.sql
  */
 public class H2JDBC {
